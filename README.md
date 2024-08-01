@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I’m currently studying computer science at Northeastern University.
+I’m currently studying computer science at Northeastern University!
